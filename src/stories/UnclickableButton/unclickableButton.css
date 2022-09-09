@@ -6,7 +6,6 @@
   cursor: pointer;
   display: inline-block;
   line-height: 1;
-  cursor: pointer;
 }
 .storybook-button--primary {
   color: white;
@@ -28,9 +27,4 @@
 .storybook-button--large {
   font-size: 16px;
   padding: 12px 24px;
-}
-
-.move {
-  left: 100;
-  top: 20;
 }
